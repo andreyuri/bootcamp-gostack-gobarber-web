@@ -4,4 +4,5 @@ export default {
   third: '#3b9eff',
   dark: '#191920',
   font: '#fff',
+  error: '#fb6f91',
 };
