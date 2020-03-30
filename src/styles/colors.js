@@ -5,4 +5,5 @@ export default {
   dark: '#191920',
   font: '#fff',
   error: '#fb6f91',
+  orange: '#ff892e',
 };
