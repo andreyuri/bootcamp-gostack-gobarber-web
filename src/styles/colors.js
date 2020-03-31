@@ -6,4 +6,5 @@ export default {
   font: '#fff',
   error: '#fb6f91',
   orange: '#ff892e',
+  red: '#f64c75',
 };
